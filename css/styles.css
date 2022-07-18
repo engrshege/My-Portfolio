@@ -109,6 +109,7 @@ ul {
     display: inline-block;
     white-space: nowrap;
     text-align: center;
+    overflow-x: auto;
 }
 
 .title-2 {
