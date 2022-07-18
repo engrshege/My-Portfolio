@@ -14,12 +14,12 @@ ul {
 
 /*Class Tag */
 .avatar {
-    width: 25%;
+    width: 27%;
     margin: 3% auto 10px auto;
 }
 
 .banner {
-    width: 90%;
+    width: 88%;
     padding: 3%;
 }
 
@@ -80,7 +80,8 @@ ul {
 .subtitle {
     margin: 0px auto 0px auto;
     font-family: 'Nunito', sans-serif;
-    font-weight: 700 !important;
+    font-weight: 550 !important;
+    font-size: 1.8rem;
 }
 
 .subtitle-welcome {
@@ -92,8 +93,8 @@ ul {
 
 .title {
     font-family: 'Exo', sans-serif;
-    font-weight: 800 !important;
-    font-size: 2.4rem;
+    font-weight: 650 !important;
+    font-size: 2.19rem;
 }
 
 .title-welcome {
@@ -104,7 +105,7 @@ ul {
 .title-1 {
     font-family: 'Nunito', sans-serif;
     font-weight: 400;
-    font-size: 1.9rem;
+    font-size: 1.7rem;
 }
 
 .title-2 {
