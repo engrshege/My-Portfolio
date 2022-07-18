@@ -1,3 +1,3 @@
 # myportfolio
 
-This is my portfolio website I built from scratch using Boostrap to make it responsive.
+I built my portfolio website from scratch and I used Boostrap to make it responsive.
