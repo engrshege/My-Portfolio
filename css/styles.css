@@ -1,0 +1,145 @@
+h1 {
+    font-family: 'Exo', sans-serif;
+    font-weight: 800;
+}
+
+h2 {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+}
+
+ul {
+    display: inline-block;
+  }
+
+/*Class Tag */
+.avatar {
+    width: 25%;
+    margin: 3% auto 10px auto;
+}
+
+.banner {
+    width: 90%;
+    padding: 3%;
+}
+
+.col {
+    padding: 5%;
+    text-align: center;
+    border-style: solid;
+    border-width: thin;
+    border-color: #e6e6e6;
+    background-color: white;
+}
+
+.columns {
+    text-align: center;
+}
+
+.container {
+    padding: 1.2rem 0;
+}
+
+.container-fluid {
+    padding: 1.2rem 0;
+}
+
+.is-skill-icon {
+    width: 13%;
+}
+
+.list-title {
+    color: #fcd34d;
+    font-weight: bolder;
+}
+
+.nav-text {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 1.7rem;
+    line-height: 1.5;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 0 2px 5px;
+    color: #fcd34d;
+}
+
+.section {
+    text-align: center;
+}
+
+.section-long {
+    padding-bottom: 18rem;
+}
+
+.skills {
+    margin-top: -15rem;
+    padding-bottom: 1rem;
+}
+
+.subtitle {
+    margin: 0px auto 0px auto;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700 !important;
+}
+
+.subtitle-welcome {
+    margin: 0px auto 0px auto;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400 !important;
+    line-height: 2.5rem;
+}
+
+.title {
+    font-family: 'Exo', sans-serif;
+    font-weight: 800 !important;
+    font-size: 2.4rem;
+}
+
+.title-welcome {
+    font-family: 'Exo', sans-serif;
+    font-weight: 600 !important;
+}
+
+.title-1 {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+    font-size: 1.9rem;
+}
+
+.title-2 {
+    font-family: 'Exo', sans-serif;
+    font-weight: 800 !important;
+    font-size: 1.5rem;
+}
+
+.projects{
+    padding: 9rem 4.5rem;
+}
+
+.welcome {
+    display: block;
+    padding-bottom: 18rem;
+    background-color: transparent;
+    border-style: none;
+}
+
+.yellow-section {
+    background-color: #ffd966;
+    text-align: center;
+}
+
+
+/* Button Tag */
+.btn-outline-primary {
+    --bs-btn-color: #000 !important;
+    --bs-btn-border-color: #000 !important;
+    --bs-btn-hover-color: #000 !important;
+    --bs-btn-hover-bg: #ffd966 !important;
+    --bs-btn-hover-border-color: #ffd966 !important;
+    --bs-btn-hover-border-color: #ffd966 !important;
+}
+
+.dropdown-menu {
+    --bs-dropdown-link-hover-bg: #ffd966 !important;
+}
