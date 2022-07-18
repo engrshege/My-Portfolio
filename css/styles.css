@@ -142,4 +142,5 @@ ul {
 
 .dropdown-menu {
     --bs-dropdown-link-hover-bg: #ffd966 !important;
+    --bs-dropdown-link-active-bg: #ffd966 !important;
 }
