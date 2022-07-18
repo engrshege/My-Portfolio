@@ -132,11 +132,13 @@ ul {
 
 /* Button Tag */
 .btn-outline-primary {
+    --bs-btn-active-bg: #ffd966 !important;
+    --bs-btn-active-border-color: #ffd966 !important;
+    --bs-btn-disabled-color: #ffd966 !important;
     --bs-btn-color: #000 !important;
     --bs-btn-border-color: #000 !important;
     --bs-btn-hover-color: #000 !important;
     --bs-btn-hover-bg: #ffd966 !important;
-    --bs-btn-hover-border-color: #ffd966 !important;
     --bs-btn-hover-border-color: #ffd966 !important;
 }
 
