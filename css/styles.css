@@ -61,7 +61,7 @@ ul {
     display: inline-block;
     vertical-align: middle;
     margin: 0 0 2px 5px;
-    color: #fcd34d;
+    color: #ffbf00;
 }
 
 .section {
@@ -108,6 +108,7 @@ ul {
     font-size: 170%;
     display: inline-block;
     white-space: nowrap;
+    text-align: center;
 }
 
 .title-2 {
