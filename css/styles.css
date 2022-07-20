@@ -37,11 +37,11 @@ ul {
 }
 
 .container {
-    padding: 1.2rem auto;
+    padding: 1.2rem 0;
 }
 
 .container-fluid {
-    padding: 1.2rem auto;
+    padding: 1.2rem 0;
 }
 
 .is-skill-icon {
