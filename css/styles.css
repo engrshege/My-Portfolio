@@ -24,7 +24,7 @@ ul {
 }
 
 .col {
-    padding: 5%;
+    padding: 5% auto 5% auto;
     text-align: center;
     border-style: solid;
     border-width: thin;
