@@ -1,4 +1,4 @@
-Body {
+body {
     text-align: center;
 }
 
@@ -110,6 +110,7 @@ ul {
     font-family: 'Nunito', sans-serif;
     font-weight: 400;
     font-size: 170%;
+    display: inline-block;
 }
 
 .title-2 {
