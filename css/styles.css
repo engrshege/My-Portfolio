@@ -78,7 +78,7 @@ ul {
 }
 
 .subtitle {
-    margin: auto;
+    margin: 0px auto 0px auto;
     font-family: 'Nunito', sans-serif;
     font-weight: 550 !important;
     font-size: 1.8rem;
