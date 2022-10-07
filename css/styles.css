@@ -48,6 +48,10 @@ ul {
     padding: 1.2rem 0;
 }
 
+.design-work-heading {
+    padding-top: 4%;
+}
+
 .is-skill-icon {
     width: 13%;
 }
@@ -130,6 +134,23 @@ ul {
     border-style: none;
 }
 
+.work-row1 {
+    padding-top: 4%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.work-row2 {
+    padding-top: 8%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.work-info {
+    padding-left: 3%;
+}
+
+
 .yellow-section {
     background-color: #ffd966;
     text-align: center;
@@ -151,4 +172,20 @@ ul {
 .dropdown-menu {
     --bs-dropdown-link-hover-bg: #ffd966 !important;
     --bs-dropdown-link-active-bg: #ffd966 !important;
+}
+
+#work {
+    background-color: #f8f9fa;
+}
+
+#stacktribe {
+    width: 40%;
+    padding-right: 5%;
+    padding-left: 2%;
+}
+
+#acec {
+    width: 40%;
+    padding-right: 2%;
+    padding-left: 5%;
 }
