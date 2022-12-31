@@ -134,22 +134,38 @@ ul {
     border-style: none;
 }
 
+.work {
+    text-align: center;
+}
+
 .work-row1 {
     padding-top: 4%;
-    padding-left: 3%;
-    padding-right: 3%;
+    padding-bottom: 4%;
+    margin-bottom: 15px;
+    text-align: center;
+    border-style: solid;
+    border-width: thin;
+    border-color: #e6e6e6;
+    background-color: white;
 }
 
 .work-row2 {
-    padding-top: 8%;
-    padding-left: 3%;
-    padding-right: 3%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    text-align: center;
+    border-style: solid;
+    border-width: thin;
+    border-color: #e6e6e6;
+    background-color: white;
 }
 
-.work-info {
-    padding-left: 3%;
+.work-info-1 {
+    text-align: center;
 }
 
+.work-info-2 {
+    text-align: center;
+}
 
 .yellow-section {
     background-color: #ffd966;
@@ -176,16 +192,18 @@ ul {
 
 #work {
     background-color: #f8f9fa;
+    text-align: center;
 }
 
 #stacktribe {
-    width: 40%;
-    padding-right: 5%;
-    padding-left: 2%;
+    width: 30%;
+    float: right;
+    padding-right: 2%;
 }
 
 #acec {
-    width: 40%;
+    width: 30%;
+    float: left;
+    padding-left: 2%;
     padding-right: 2%;
-    padding-left: 5%;
 }
