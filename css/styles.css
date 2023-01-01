@@ -141,10 +141,11 @@ ul {
 .work-row1 {
     padding-top: 4%;
     padding-bottom: 4%;
-    margin-bottom: 40px;
+    margin-bottom: 50px;
     text-align: center;
     border-style: solid;
     border-width: thin;
+    border-radius: 10px;
     border-color: #e6e6e6;
     background-color: white;
 }
@@ -155,6 +156,7 @@ ul {
     text-align: center;
     border-style: solid;
     border-width: thin;
+    border-radius: 10px;
     border-color: #e6e6e6;
     background-color: white;
 }
@@ -196,13 +198,13 @@ ul {
 }
 
 #stacktribe {
-    width: 30%;
+    width: 35%;
     float: right;
     padding-right: 2%;
 }
 
 #acec {
-    width: 30%;
+    width: 35%;
     float: left;
     padding-left: 2%;
     padding-right: 2%;
