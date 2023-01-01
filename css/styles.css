@@ -19,7 +19,7 @@ ul {
 /*Class Tag */
 .avatar {
     width: 27%;
-    margin: 3% auto 10px auto;
+    margin: 3% auto 0.625rem auto;
 }
 
 .banner {
@@ -68,7 +68,7 @@ ul {
     line-height: 1.5;
     display: inline-block;
     vertical-align: middle;
-    margin: 0 0 2px 5px;
+    margin: 0 0 0.125rem 0.313rem;
     color: #ffbf00;
 }
 
@@ -142,11 +142,11 @@ ul {
 .work-row1 {
     padding-top: 4%;
     padding-bottom: 4%;
-    margin-bottom: 50px;
+    margin-bottom: 3.125rem;
     text-align: center;
     border-style: solid;
     border-width: thin;
-    border-radius: 10px;
+    border-radius: 0.625rem;
     border-color: #e6e6e6;
     background-color: #f8f9fa;
 }
@@ -157,7 +157,7 @@ ul {
     text-align: center;
     border-style: solid;
     border-width: thin;
-    border-radius: 10px;
+    border-radius: 0.625rem;
     border-color: #e6e6e6;
     background-color: #f8f9fa;
 }
