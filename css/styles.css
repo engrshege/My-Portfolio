@@ -81,7 +81,8 @@ ul {
 }
 
 .skills {
-    margin-top: -15rem;
+    margin-top: -16.5rem;
+    margin-bottom: 3rem;
     padding-bottom: 1rem;
 }
 
@@ -147,7 +148,7 @@ ul {
     border-width: thin;
     border-radius: 10px;
     border-color: #e6e6e6;
-    background-color: white;
+    background-color: #f8f9fa;
 }
 
 .work-row2 {
@@ -158,7 +159,7 @@ ul {
     border-width: thin;
     border-radius: 10px;
     border-color: #e6e6e6;
-    background-color: white;
+    background-color: #f8f9fa;
 }
 
 .work-info-1 {
@@ -190,11 +191,6 @@ ul {
 .dropdown-menu {
     --bs-dropdown-link-hover-bg: #ffd966 !important;
     --bs-dropdown-link-active-bg: #ffd966 !important;
-}
-
-#work {
-    background-color: #f8f9fa;
-    text-align: center;
 }
 
 #stacktribe {
