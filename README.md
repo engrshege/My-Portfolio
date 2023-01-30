@@ -6,7 +6,7 @@ I built my portfolio website from scratch and I used Boostrap to make it respons
 
 Demo: https://engrshege.github.io/myportfolio/
 
-![cv](./img/Capture.png)
+![nyportfolio](./img/Capture.png)
 
 
 ## Built With
