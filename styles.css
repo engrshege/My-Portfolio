@@ -1,0 +1,321 @@
+/** General Tag Selectors **/
+
+h1 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 550;
+    font-size: 2.18rem;
+    color: #1f1f1f;
+    margin-bottom: 2%;
+}
+
+h2 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 500;
+    color: #1f1f1f;
+}
+
+h3 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    color: #1f1f1f;
+}
+
+h4 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 450;
+    font-size: 1.4rem;
+    color: #1f1f1f;
+}
+
+h5 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 470;
+    font-size: 1.3rem;
+    color: #1f1f1f;
+}
+
+h6 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 420;
+    font-size: 1rem;
+    color: #1f1f1f;
+}
+
+
+p {
+    font-family: "Open Sans", sans-serif;
+    color: #1f1f1f;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    text-align: center;
+}
+
+/** Headings **/
+
+.intro-heading {
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 550;
+    font-size: 1.83rem;
+    color: #1f1f1f;
+}
+
+/** Navigation Bar **/
+.navbar-heading {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 610;
+    font-size: 1.5rem;
+    padding-left: 8%;
+    color: #1f1f1f;
+}
+
+.nav-item {
+    padding: 0 0 0 54px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 480;
+    font-size: 1.145rem;
+}
+
+.nav-item:hover {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 520;
+    font-size: 1.15rem;
+}
+
+.background {
+    background-color: #fcfcfc;
+}
+
+/** Sections **/
+@media (max-width: 768px) {
+    .personal-info {
+        text-align: center;
+    }
+
+    .hero {
+        text-align: center;
+        margin-bottom: 4%;
+    }
+}
+
+@media (min-width: 1200px) {
+    .personal-info {
+        margin-left: -4%;
+    }
+}
+
+@media (min-width: 990px) {
+    .designer-col {
+        border-radius: 3% 0 0 3%;
+        margin-top: -8%;
+    }
+
+    .content-creator-col {
+        border-radius: 0 3% 3% 0;
+        margin-top: -8%;
+    }
+
+    .intro-row {
+        margin-top: -2%;
+    }
+
+    .contact-me {
+        border-radius: 0 3% 3% 0;
+        padding: 5%;
+        margin-top: 3%;
+        text-align: center;
+        border-style: solid;
+        border-width: thin;
+        border-color: #e6e6e6;
+        background-color: #fcfcfc;
+        vertical-align: middle;
+    }
+
+    .rounded-pill {
+        text-align: center;
+        vertical-align: middle;
+    }
+}
+
+.white-section {
+    background-color: #ffffff;
+}
+
+.hero {
+    
+}
+
+.avatar {
+    border-radius:100%;
+    width: 13.75rem;
+}
+
+.personal-info {
+
+}
+
+.icon-vertical {
+    vertical-align: middle;
+}
+
+.info-title {
+    font-weight: 500;
+    font-size: 1.5rem;
+}
+
+.info-margin {
+    margin-top: 5%;
+}
+
+.social-icon-wl {
+    color: #444;
+    margin: 5px 10px 5px 0px;
+}
+
+.social-icon-hero {
+    color: #212529;
+    margin: 5px 20px 5px 0px;
+}
+
+.social-icon-hero:hover {
+    color: #999999;
+}
+
+.yellow-section {
+    background-color: #FFD966;
+}
+
+.text-body-secondary {
+    font-weight: 430;
+    font-size: 1.43rem;
+    line-height: 3rem;
+    color: #1f1f1f;
+}
+
+.designer-col {
+    padding: 5%;
+    text-align: center;
+    border-style: solid;
+    border-width: thin;
+    border-color: #e6e6e6;
+}
+
+.skill-paragraph {
+    font-weight: 380;
+    font-size: 1.25rem;
+    line-height: 2rem;
+}
+
+.content-creator-col {
+    padding: 5%;
+    text-align: center;
+    border-style: solid;
+    border-width: thin;
+    border-color: #e6e6e6;
+}
+
+.title-2 {
+    margin-bottom: 5%;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 450;
+    font-size: 1.9rem;
+    color: #1f1f1f;
+}
+
+.list-title {
+    font-weight: 500;
+    font-size: 1.4rem;
+}
+
+/** Project Section **/
+.project-heading {
+    margin-bottom: 3%;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+.card-text {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 1.07rem;
+    line-height: 1.8rem;
+    color: #1f1f1f;
+}
+
+.see-more-button {
+    margin-top: 5%;
+}
+
+.btn-lg {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+/** Testimonials Section **/
+#testimonials {
+    background-color: #ffffff;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.testimonial-text {
+    font-size: 2rem;
+    line-height: 1.8;
+}
+
+.testimonials-heading {
+    margin-top: 4%;
+}
+
+.testimonials-paragraph {
+    font-weight: 370;
+    font-size: 1.09rem;
+    line-height: 2rem;
+}
+
+/** Contact Me Section **/
+.contact-me {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+.contact-me-paragraph {
+    font-weight: 380;
+    font-size: 1.25rem;
+    line-height: 2rem;
+    padding: 0 30px;
+}
+
+/** Footer Area **/
+#footer {
+    padding: 2.5% 15%;
+}
+
+.social-icon {
+    color: #212529;
+    margin: 10px 10px;
+}
+
+.social-icon:hover {
+    color: #ffffff;
+}
