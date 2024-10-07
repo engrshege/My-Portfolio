@@ -4,7 +4,7 @@ I built my portfolio website from scratch and I used Boostrap to make it respons
 
 ## Deployment
 
-Demo: https://engrshege.github.io/myportfolio/
+Demo: https://logicaldami.github.io/myportfolio/
 
 ![nyportfolio](./img/Capture.png)
 
@@ -20,7 +20,7 @@ Demo: https://engrshege.github.io/myportfolio/
 ## Authors
 
   - **Oluwasegun Idowu**
-    [engrshege](https://github.com/engrshege/)
+    [engrshege](https://github.com/logicaldami/)
 
 
 ## License
